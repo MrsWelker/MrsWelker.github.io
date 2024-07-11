@@ -11,16 +11,24 @@ Level of Instruction: (Century Gothic, 14 pt., Bold) Is this lesson intended for
 Applicable First Principles &/or Concepts: (Century Gothic, 14 pt., Bold) Please select the Principles or Concepts covered in this lesson. (Verdana, 12 pt.)
 
 **GenCyber First Principles**
+
 Domain Separation			      		Abstraction
+
 Process Isolation			    			Data Hiding
+
 Resource Encapsulation					Layering
+
 Modularity					        		Simplicity
+
 Least Privilege					      	Minimization
 
 
-GenCyber Cybersecurity Concepts
+**GenCyber Cybersecurity Concepts**
+
 Defense in Depth						Availability
+
 Confidentiality						Think Like an Adversary
+
 Integrity							Keep it Simple
 
 **Resources that are Needed:** (Century Gothic, 14 pt., Bold) Specify the resources needed to complete the lesson. This includes a list of PowerPoint slides, data files, supplementary reading, assessment activities, videos, etc. needed for this lesson. (Verdana, 12 pt.) Please properly cite and acknowledge sources. 
