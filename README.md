@@ -29,6 +29,7 @@ Integrity							Keep it Simple
 learning outcomes (Century Gothic, 14 pt., White, Italic)
 
 LEsson learning oUTCOMES (VERDANA, 12 PT, ALL CAPS)
+
 •	The learning outcomes should be statements of what students should be able to DO at the end of instruction. Use outcome examples such as Design/Built, Test/Defend, Compare/Contrast, Apply/Use, Explain/Discuss, Identify/Describe
 
 •	It would be typical for a lesson to have 1-3 learning outcomes 
